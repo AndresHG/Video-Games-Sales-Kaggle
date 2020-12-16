@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+# Not necessary data files
+data/
+
+# PPTX source
+Video-Games-Sales-2019-Kaggle.pptx
